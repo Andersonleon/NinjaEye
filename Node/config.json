@@ -1,0 +1,20 @@
+{
+    "monitored_files": {
+      "time_interval": 30,
+      "file_paths": [
+        {
+          "filename": "test1",
+          "filepath": "/home/ubuntu/Desktop/Folder1"
+        },
+        {
+          "filename": "test2",
+          "filepath": "/home/ubuntu/Desktop/test2.txt"
+        },
+        {
+          "filename": "test3",
+          "filepath": "/home/ubuntu/Desktop/test3.txt"
+        }
+      ]
+    }
+  }
+  

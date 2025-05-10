@@ -1,1 +1,2 @@
-# NinjaEye
+# Ninja-Eye
+Intrusion detection system.
